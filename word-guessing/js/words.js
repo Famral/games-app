@@ -198,77 +198,77 @@ let wordList = [
     {
         word: "amazon",
         hint: "company by the name of river"
-    }
+    },
     {
         word: "thames",
         hint: "cleanest river in the world"
-    }
+    },
     {
         word: "exorcist",
         hint: "most famous horror movie"
-    }
+    },
     {
         word: "book",
         hint: "what has words, but never speaks"
-    }
+    },
     {
         word: "mp4",
         hint: "video file format"
-    }
+    },
     {
         word: "pubg",
         hint: "most popular video game"
-    }
+    },
     {
         word: "egg",
         hint: "What has to be broken before you can use it"
-    }
+    },
     {
         word: "candle",
-        hint: "I’m tall when I’m young, and I’m short when I’m old"
-    }
+        hint: "I am tall when I am young, and I am short when I am old"
+    },
     {
         word: "future",
-        hint: "What is always in front of you but can’t be seen"
-    }
+        hint: "what is always in front of you but can not be seen"
+    },
     {
         word: "promise",
-        hint: "What can you break,without touching it"
-    }
+        hint: "what can you break,without touching it"
+    },
     {
         word: "age",
         hint: "What goes up but never comes down"
-    }  
+    },
     {
         word: "bank",
-        hint: "I have branches, but no fruit, trunk or leaves"
-    }  
+        hint: "i have branches, but no fruit, trunk or leaves"
+    }, 
     {
         word: "echo",
-        hint: "What can’t talk but will reply when spoken to?"
-    }
+        hint: "What can not talk but will reply when spoken to?"
+    },
     {
         word: "shadow",
-        hint: "I follow you all the time and copy your every move, but you can’t touch me or catch me"
-    }  
+        hint: "I follow you all the time and copy your every move, but you can not touch me or catch me"
+    },
     {
         word: "piano",
-        hint: "What has many keys but can’t open a single lock"
-    }  
+        hint: "What has many keys but can not open a single lock"
+    },
     {
         word: "breath",
-        hint: "I’m light as a feather, yet the strongest person can’t hold me for five minutes"
-    }  
+        hint: "I am light as a feather, yet the strongest person can not hold me for five minutes"
+    },  
     {
         word: "secret",
-        hint: "If you’ve got me, you want to share me; if you share me, you haven’t kept me"
-    }  
+        hint: "If you have got me, you want to share me; if you share me, you have not kept me"
+    },
     {
         word: "staircase",
-        hint: "What goes up and down but doesn’t move"
-    }  
+        hint: "What goes up and down but does not move"
+    },
     {
         word: "table",
-        hint: "What has legs, but doesn’t walk"
-    }  
+        hint: "What has legs, but does not walk"
+    }, 
 ]
